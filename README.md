@@ -1,3 +1,4 @@
+
 # Flappybird-Game
 Um jogo estilo Flappybird Feito  com html css e Javascript
 
@@ -6,7 +7,10 @@ Um jogo estilo Flappybird Feito  com html css e Javascript
 
 ### O que foi usado nesse projeto?
 
--Javascript Orientado a Objetos
+- Javascript Orientado a Objetos
+
 - Noções de Canvas
--Animações Feitas com Javascript
--Web audio API
+
+- Animações Feitas com Javascript
+
+- Web audio API
