@@ -14,3 +14,5 @@ Um jogo estilo Flappybird Feito  com html css e Javascript
 - Animações Feitas com Javascript
 
 - Web audio API
+
+- módulos
